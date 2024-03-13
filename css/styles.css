@@ -121,7 +121,7 @@ a.white {
 .btn-access {
 	background-color: whitesmoke;
 	color: goldenrod;
-	border: 1px solid;
+	border: 2px solid goldenrod;
 	border-radius: 26px;
 	width: 150px;
 	height: 45px;
@@ -130,7 +130,7 @@ a.white {
 }
 .btn-access:hover {
 	background-color: transparent;
-	color: greenyellow;
+	color: rgb(20, 146, 20);
 	font-size: small;
 	font-weight: bolder;
 }
