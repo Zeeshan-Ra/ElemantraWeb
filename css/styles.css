@@ -121,7 +121,7 @@ a.white {
 .btn-access {
 	background-color: whitesmoke;
 	color: goldenrod;
-	border: 2px solid goldenrod;
+	border: 2px solid;
 	border-radius: 26px;
 	width: 150px;
 	height: 45px;
